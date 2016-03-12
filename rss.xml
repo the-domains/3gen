@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[3Gen Family of Products]]></title>
         <description><![CDATA[3Gen Family of Products]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/3gen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 23:40:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 23:43:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/3gen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f041b67c-4d4b-4ad0-b850-0f110ab36f3c.jpg">]]></description>
+            <link>https://thegrid.ai/3gen/c69bd931-db84-4d81-a9bb-b0060f4db8f7/index.html</link>
+            <guid isPermaLink="false">c69bd931-db84-4d81-a9bb-b0060f4db8f7</guid>
+            <pubDate>Sat, 12 Mar 2016 23:42:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/058079e6-4e43-4bec-9f7f-741765f05b05.jpg">]]></description>
-            <link>undefined346d94e2-de58-4e70-a5a4-fbf70e84370b/index.html</link>
+            <link>https://thegrid.ai/3gen/346d94e2-de58-4e70-a5a4-fbf70e84370b/index.html</link>
             <guid isPermaLink="false">346d94e2-de58-4e70-a5a4-fbf70e84370b</guid>
             <pubDate>Sat, 12 Mar 2016 23:40:43 GMT</pubDate>
         </item>
